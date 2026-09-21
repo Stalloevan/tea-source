@@ -1,0 +1,34 @@
+{
+  "name": "tea",
+  "subtitle": "Character.AI client",
+  "description": "A native iOS Character.AI chat client with Catppuccin Mocha theme.",
+  "tintColor": "cba6f7",
+  "apps": [
+    {
+      "name": "tea",
+      "bundleIdentifier": "com.example.TeaApp",
+      "developerName": "Stalloevan",
+      "subtitle": "Character.AI chat client",
+      "localizedDescription": "A native iOS Character.AI chat client with Catppuccin Mocha theme, message editing, regeneration, and local caching.",
+      "tintColor": "cba6f7",
+      "category": "social",
+      "versions": [
+        {
+          "version": "2026.09.21",
+          "buildVersion": "1836",
+          "date": "2026-09-21T18:36:31Z",
+          "localizedDescription": "Latest build.",
+          "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.09.21-1836/TeaApp.ipa",
+          "size": 369931,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "iconURL": "https://raw.githubusercontent.com/Stalloevan/tea-source/main/icon.png"
+    }
+  ],
+  "news": []
+}
