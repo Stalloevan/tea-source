@@ -15,6 +15,15 @@
       "versions": [
         {
           "version": "2026.09.21",
+          "buildVersion": "1840",
+          "date": "2026-09-21T18:40:11Z",
+          "localizedDescription": "Latest build.",
+          "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.09.21-1840/TeaApp.ipa",
+          "size": 369929,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "2026.09.21",
           "buildVersion": "1836",
           "date": "2026-09-21T18:36:31Z",
           "localizedDescription": "Latest build.",
@@ -27,7 +36,12 @@
         "entitlements": [],
         "privacy": {}
       },
-      "iconURL": "https://raw.githubusercontent.com/Stalloevan/tea-source/main/icon.png"
+      "iconURL": "https://raw.githubusercontent.com/Stalloevan/tea-source/main/icon.png",
+      "version": "2026.09.21",
+      "versionDate": "2026-09-21T18:40:11Z",
+      "versionDescription": "Latest build.",
+      "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.09.21-1840/TeaApp.ipa",
+      "size": 369929
     }
   ],
   "news": []
