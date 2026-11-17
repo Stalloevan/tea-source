@@ -14,6 +14,15 @@
       "category": "social",
       "versions": [
         {
+          "version": "2026.11.17-104",
+          "buildVersion": "104",
+          "date": "2026-11-17T12:35:30Z",
+          "localizedDescription": "Latest build.",
+          "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.11.17-104/TeaApp.ipa",
+          "size": 5843336,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "2026.11.16-103",
           "buildVersion": "103",
           "date": "2026-11-16T19:37:24Z",
@@ -262,11 +271,11 @@
         "privacy": {}
       },
       "iconURL": "https://raw.githubusercontent.com/Stalloevan/tea-source/main/icon.png",
-      "version": "2026.11.16-103",
-      "versionDate": "2026-11-16T19:37:24Z",
+      "version": "2026.11.17-104",
+      "versionDate": "2026-11-17T12:35:30Z",
       "versionDescription": "Latest build.",
-      "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.11.16-103/TeaApp.ipa",
-      "size": 5824431
+      "downloadURL": "https://github.com/Stalloevan/tea-source/releases/download/v2026.11.17-104/TeaApp.ipa",
+      "size": 5843336
     }
   ],
   "news": [],
